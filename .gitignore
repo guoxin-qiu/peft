@@ -33,3 +33,5 @@ anaconda_projects
 
 tourism.db
 chroma_db
+r_data
+data/datasets
